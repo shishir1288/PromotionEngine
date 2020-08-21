@@ -1,0 +1,6 @@
+E:\POC Projects\CodingTest\PromotionEngine\bin\Debug\PromotionEngine.exe.config
+E:\POC Projects\CodingTest\PromotionEngine\bin\Debug\PromotionEngine.exe
+E:\POC Projects\CodingTest\PromotionEngine\bin\Debug\PromotionEngine.pdb
+E:\POC Projects\CodingTest\PromotionEngine\obj\Debug\PromotionEngine.csprojAssemblyReference.cache
+E:\POC Projects\CodingTest\PromotionEngine\obj\Debug\PromotionEngine.exe
+E:\POC Projects\CodingTest\PromotionEngine\obj\Debug\PromotionEngine.pdb
